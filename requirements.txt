@@ -1,0 +1,4 @@
+corpwechatbot==0.6.4
+cptools==2.0.1
+pysnmp==4.4.12
+schedule==1.2.1
